@@ -1,3 +1,5 @@
+import os
+os.system("pip3 install matplotlib")
 import numpy as np
 import tensorflow as tf
 from tensorflow.keras.datasets import cifar10
